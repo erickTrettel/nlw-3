@@ -3,3 +3,5 @@ node_modules
 *.http
 
 uploads
+
+src/database/database.sqlite
